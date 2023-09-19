@@ -9,6 +9,6 @@ This project is a hands-on exploration of web scraping using the Python package,
 * Handle common challenges, like handling different HTML structures and dealing with dynamic web pages.
 
 # Dependencies
-* Python 3.x
-* BeautifulSoup 4.x
+* Python 3.9
+* BeautifulSoup 4.12
 * Requests library (for making HTTP requests)
